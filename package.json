@@ -1,0 +1,23 @@
+{
+  "name": "intec-test-second",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vituum/vite-plugin-posthtml": "^1.1.0",
+    "sass": "^1.72.0",
+    "sharp": "^0.32.6",
+    "svgo": "^3.2.0",
+    "vite": "^5.2.0",
+    "vite-plugin-image-optimizer": "^1.1.7"
+  },
+  "dependencies": {
+    "@fontsource-variable/montserrat": "^5.0.18",
+    "swiper": "^11.0.7"
+  }
+}
